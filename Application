@@ -1,5 +1,6 @@
 #include <stdio.h>
 main ()
 {
-printf("I’m Юрий Кульба, and I’m not a monkey")
+printf("I’m Yri Kulba, and I’m not a monkey")
+getchar();
 }
